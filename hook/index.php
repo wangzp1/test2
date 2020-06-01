@@ -2,7 +2,7 @@
  
 	error_reporting(1);
  
-	$target = '/data1/www/htdocs/githubtest.com/test1/'; // 生产环境web目录
+	$target = '/data1/www/htdocs/githubtest.com/test2/'; // 生产环境web目录
 	$token = '123456';
 	$wwwUser = 'www';
  
